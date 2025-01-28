@@ -1,7 +1,7 @@
 # Budget-Calculator
 Project Overview
 
-The Budget Calculator is a web application designed to help users manage their personal finances by calculating their income, expenses, and remaining budget. It allows users to input income sources and expenses, dynamically update their budget summary, and visualize data with interactive charts. The application has been built using **HTML, JavaScript, and CSS** with a focus on usability and interactivity.
+The [Budget Calculator](url) is a web application designed to help users manage their personal finances by calculating their income, expenses, and remaining budget. It allows users to input income sources and expenses, dynamically update their budget summary, and visualize data with interactive charts. The application has been built using **HTML, JavaScript, and CSS** with a focus on usability and interactivity.
 
 ![Budget Calculator Screenshot](./Screenshot.png)
 
@@ -26,7 +26,7 @@ Expenses vs Remaining Budget
 Breakdown of expenses by category
 The charts update automatically when income or expenses are modified.
 
-**User Experience**The Budget Calculator is designed to provide real-time updates as users enter income or expense data. The dynamic nature of the application ensures users can see changes immediately, which helps keep them engaged and aware of their financial situation.
+**User Experience**T[he Budget Calculator](url) is designed to provide real-time updates as users enter income or expense data. The dynamic nature of the application ensures users can see changes immediately, which helps keep them engaged and aware of their financial situation.
 
 **Interactions and Engagement**
 Interactive Dropdowns: The dropdown menu for expense categories blurs out already selected categories, ensuring users only pick unique categories. This adds a layer of interactivity and helps prevent mistakes.
