@@ -35,16 +35,16 @@ Future Additions
 
 **Here are some planned future features for the Budget Calculator:**
 
-Save and Load Data: Allow users to save their data to a backend (using PHP and MySQL) so they can return to the app later and continue from where they left off.
+**Save and Load Data:** Allow users to save their data to a backend (using PHP and MySQL) so they can return to the app later and continue from where they left off.
 User Authentication: Introduce a login feature for personal budget tracking, allowing users to create accounts, store their budget data securely, and access it across devices.
 
-Currency Conversion: Enable users to select their preferred currency, with real-time exchange rates to convert amounts between different currencies.
+**Currency Conversion:** Enable users to select their preferred currency, with real-time exchange rates to convert amounts between different currencies.
 Recurring Expenses/Income: Allow users to set recurring income or expenses, such as monthly salaries or subscriptions, which would automatically populate in the next period.
 
-Export Options: Provide users the option to export their budget data as a PDF or Excel file for offline use.
+**Export Options:** Provide users the option to export their budget data as a PDF or Excel file for offline use.
 Known Bugs
 
-Negative Values Issue: A known bug exists where entering two negative values results in a positive total. This issue occurs due to a logic oversight when calculating the budget. The issue will be fixed in the upcoming commit, where negative values will be handled correctly.
+**Negative Values Issue:** A known bug exists where entering two negative values results in a positive total. This issue occurs due to a logic oversight when calculating the budget. The issue will be fixed in the upcoming commit, where negative values will be handled correctly.
 
-Initial Dropdown Issue: When the first expense row is added, the dropdown does not blur out the categories already selected, although it works fine for subsequent rows. This issue is being addressed in the next update.
+**Initial Dropdown Issue:** When the first expense row is added, the dropdown does not blur out the categories already selected, although it works fine for subsequent rows. This issue is being addressed in the next update.
 Occasionally, the dropdown menu does not immediately update when a new row is added, leaving some categories enabled that should be disabled. This issue can occur when a user quickly adds multiple rows. A fix will be added to better handle the initial row selections.
