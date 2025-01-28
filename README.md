@@ -1,10 +1,27 @@
 # Budget-Calculator
 Project Overview
 
-The [Budget Calculator](url) is a web application designed to help users manage their personal finances by calculating their income, expenses, and remaining budget. It allows users to input income sources and expenses, dynamically update their budget summary, and visualize data with interactive charts. The application has been built using **HTML, JavaScript, and CSS** with a focus on usability and interactivity.
+The Budget Calculator is a web application designed to help users manage their personal finances by calculating their income, expenses, and remaining budget. It allows users to input income sources and expenses, dynamically update their budget summary, and visualize data with interactive charts. The application has been built using **HTML, JavaScript, and CSS** with a focus on usability and interactivity.
 
 ![Budget Calculator Screenshot](./Screenshot.png)
 
+
+## Live Demo
+[Click here to view the live project](https://jmansour2.github.io/Budget-Calculator/)
+
+## Features
+- Add, edit, and delete expenses dynamically
+- Visualize spending with interactive graphs
+- Responsive design for mobile and desktop
+
+## How to Use
+1. Clone the repository: `git clone https://github.com/jmansour2/Budget-Calculator.git`
+2. Open `index.html` in your browser.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 **Core Features**
 Income Section
 Dynamic Income Inputs: Users can input multiple sources of income, each with a source name and amount. This data is added to a running total of income, which automatically updates when new entries are made.
