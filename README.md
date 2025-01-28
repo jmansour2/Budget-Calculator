@@ -1,7 +1,7 @@
 # Budget-Calculator
 The Budget Calculator is a dynamic web application designed to help users manage their finances by tracking income and expenses. The application features an interactive interface, allowing users to add income sources and expense categories, as well as visualize their financial data through charts.
 
-![Budget Calculator Screenshot](./gallery/screenshot.png)
+![Budget Calculator Screenshot](./screenshot.png)
 
 Key Features
 1. Expense Category Dropdown with Dynamic Options
